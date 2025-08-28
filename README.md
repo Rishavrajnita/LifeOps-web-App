@@ -3,7 +3,7 @@
 **LifeOps** is a browser-based personal dashboard that helps you manage your daily life in one sleek, responsive web app.  
 From tracking your tasks and budget to staying healthy and focused, LifeOps brings everything together in one unified, distraction-free space.
 
----
+
 
 ## 📌 Features
 
@@ -49,5 +49,5 @@ From tracking your tasks and budget to staying healthy and focused, LifeOps brin
 
 Clone this repository: https://rishavrajnita.github.io/LifeOps-web-App/
 
-## 📂 Project Structure
+Thanks for visiting.
 
