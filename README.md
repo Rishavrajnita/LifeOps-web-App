@@ -49,5 +49,5 @@ From tracking your tasks and budget to staying healthy and focused, LifeOps brin
 
 Clone this repository: https://rishavrajnita.github.io/LifeOps-web-App/
 
--------------------------------------------------------------------------.Thanks for visiting.----------------------------------------------------------------
+------------------------------------------------.Thanks for visiting.-----------------------------------------------
 
